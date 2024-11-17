@@ -6,9 +6,9 @@ Welcome to my GitHub profile! 🚀
 
 ## 👨‍💻 About Me
 - 🎓 I’m currently learning and exploring new technologies.
-- 🌱 Passionate about **[Your Interests, e.g., Web Development, Machine Learning, etc.]**.
+- 🌱 Passionate about **Web Development, Machine Learning, etc.**.
 - 💼 Open to collaborating on exciting projects.
-- 🌟 Fun fact: **[Something Unique About You]**.
+- 🌟 Fun fact: **my pet name is Rowdy**.
 
 ---
 
