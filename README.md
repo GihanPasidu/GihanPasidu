@@ -1,4 +1,4 @@
-# 🌟 Hello, I'm [Your Name]! 🌟
+# 🌟 Hello, I'm Gihan Pasidu ! 🌟
 
 Welcome to my GitHub profile! 🚀
 
