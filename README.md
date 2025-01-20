@@ -1,40 +1,49 @@
-# 🌟 Hello, I'm Gihan Pasidu ! 🌟
+<h1 align="center">Hi 👋, I'm Gihan Pasidu</h1>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
 
-Welcome to my GitHub profile! 🚀
+## About Me
 
----
+- 🌱 I’m currently learning **MERN**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 💬 Ask me about **Java**
+- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- ⚡ Fun fact **Call me as KD**
 
-## 👨‍💻 About Me
-- 🎓 I’m currently learning and exploring new technologies.
-- 🌱 Passionate about **Web Development, Machine Learning, etc.**.
-- 💼 Open to collaborating on exciting projects.
-- 🌟 Fun fact: **my pet name is Rowdy**.
+## GitHub Statistics
 
----
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=GihanPasidu&theme=dark&show_icons=true&count_private=true" />
+      <br>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GihanPasidu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanPasidu&theme=dark&hide_border=false" />
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GihanPasidu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+</table>
 
-## 🔧 Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+## Languages and Tools
 
----
-
-## 📈 GitHub Stats
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GihanPasidu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanPasidu&theme=radical" alt="GitHub Streak" />
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/></a>
+  <!-- Add other icons similarly -->
 </p>
 
----
+## Connect with Me
 
-## 🌐 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square)](https://yourportfolio.com)
-- [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="_blank"><img src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="GihanPasidu" height="50" width="50"/></a>
+  <!-- Add other links similarly -->
+</p>
 
----
+## Support
 
-✨ Thanks for stopping by! ✨
+<h3 align="center">Support:</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/GihanPasidu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GihanPasidu"/></a>
+</p>
