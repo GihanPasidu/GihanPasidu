@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **About AI**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an graduate at **Open University Sri Lanka**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **sahanrowdy@gmail.com  **
   
