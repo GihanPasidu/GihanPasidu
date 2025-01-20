@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sahanrowdy@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **Call me as ROWDY**
 
 </td>
 <td width="50%" align="center">
