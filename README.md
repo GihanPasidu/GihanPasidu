@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **sahanrowdy@gmail.com  **
   
 - ⚡ Fun fact **Call me as KD**
 
@@ -35,7 +35,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GihanPasidu&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
 </td>
