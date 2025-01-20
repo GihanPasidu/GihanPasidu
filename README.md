@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **sahanrowdy@gmail.com  **
+- 📫 How to reach me **sahanrowdy@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
