@@ -50,18 +50,27 @@
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="50" height="50" /><br />
-  <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="50" height="50" /><br />
-  <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" width="50" height="50" /><br />
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50" /><br />
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="50" height="50" /><br />
-  <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="YouTube" width="50" height="50" /><br />
-  <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="50" height="50" /><br />
-  <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="50" height="50" /><br />
-  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="50" height="50" /><br />
-  <img src="https://img.icons8.com/color/48/000000/reddit.png" alt="Reddit" width="50" height="50" />
+  <!-- Facebook -->
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  </a>
+  <!-- Twitter -->
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  </a>
+  <!-- Instagram -->
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  </a>
 </p>
-
 ---
 
 <p align="center">
