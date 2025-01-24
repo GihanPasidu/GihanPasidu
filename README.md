@@ -42,27 +42,13 @@
 
 <h3 align="center">Connect with me</h3>
 <div align="center" style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50">
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="50" height="50">
-  </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="50" height="50">
-  </a>
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="50" height="50">
-  </a>
-  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="50" height="50">
-  </a>
-  <a href="https://www.youtube.com/your-youtube-channel" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="50" height="50">
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="50" height="50">
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="50" height="50">
 </div>
 
 ---
