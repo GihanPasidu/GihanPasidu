@@ -42,19 +42,25 @@
 
 <h3 align="center">Connect with me</h3>
 <div align="center" style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
-  <a href="https://www.linkedin.com/in/gihanpasidu" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50">
   </a>
-  <a href="https://github.com/GihanPasidu" target="_blank">
+  <a href="https://github.com/your-github-username" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="50" height="50">
   </a>
-  <a href="https://twitter.com/GihanPasidu" target="_blank">
+  <a href="https://twitter.com/your-twitter-username" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="50" height="50">
   </a>
-  <a href="https://www.instagram.com/gihanpasidu" target="_blank">
+  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="50" height="50">
   </a>
-  <a href="mailto:sahanrowdy@gmail.com" target="_blank">
+  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="50" height="50">
+  </a>
+  <a href="https://www.youtube.com/your-youtube-channel" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="50" height="50">
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="50" height="50">
   </a>
 </div>
