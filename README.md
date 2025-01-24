@@ -52,7 +52,7 @@
 ---
 
 <h3 align="center">Tech Stack</h3>
-<p align="center">
+<p align="center"style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
