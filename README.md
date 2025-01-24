@@ -87,7 +87,7 @@
 
 <div align="center">
  <h3 align="center">Trophy</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=qkrdmstlr3&theme=gruvbox&title=Stars,Followers,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GihanPasidu&theme=gruvbox&title=Stars,Followers,PullRequest,Issues" />
 </div>
 
 ---
