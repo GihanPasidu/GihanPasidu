@@ -1,39 +1,9 @@
-<div align="---
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="60%">
-
-### 💫 Professional Overview
-- 🎓 **Graduate** at Open University Sri Lanka
-- 🌱 **Currently Learning**: Artificial Intelligence & Machine Learning
-- 💻 **Focus Areas**: Full-Stack Development, AI/ML, Cloud Technologies
-- 🎯 **Career Goal**: Contributing to innovative tech solutions
-- 📧 **Contact**: sahanrowdy@gmail.com
-- ⚡ **Fun Fact**: Known as "ROWDY" in the tech community
-
-### 🔭 Current Focus
-- Building scalable web applications
-- Exploring AI/ML implementations
-- Contributing to open-source projects
-- Learning cloud architecture patterns
-
-</td>
-<td width="40%">
-  <img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</td>
-</tr>
-</table>ader](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gihan%20Pasidu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20|%20Technology%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=51&descAlign=50)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Technology+Innovation+Advocate)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GihanPasidu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="GihanPasidu" />
-  <img src="https://img.shields.io/github/followers/GihanPasidu?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/GihanPasidu?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
+<div style="background-color: white; padding: 20px; border-radius: 10px;">
+  
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /></p>
+<h1 align="center">Hi 👋, I'm Gihan Pasidu</h1>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=GihanPasidu&label=Profile%20views&color=0e75b6&style=flat" alt="GihanPasidu" /></p>
 
 <table align="center">
 <tr border="none">
@@ -54,171 +24,79 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GihanPasidu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GihanPasidu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GihanPasidu&theme=tokyonight&hide_border=true" />
-  
-  <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GihanPasidu&theme=tokyo-night&hide_border=true&area=true" />
-  
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,cs,swift" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,sass,webpack,gatsby" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,mysql,postgresql,mongodb" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,github" />
-</p>
-
-### Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,jest,graphql" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="48" height="48" />
-</p>
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GihanPasidu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 💼 Experience & Education
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Education
-- **Bachelor's Degree** - Open University Sri Lanka
-- **Focus Areas**: Computer Science, Software Engineering
-- **Relevant Coursework**: Data Structures, Algorithms, Database Systems
-
-### 🏢 Professional Experience
-- **Software Developer** - Developing full-stack applications
-- **Open Source Contributor** - Contributing to various projects
-- **Technical Mentor** - Helping junior developers
-
+<h3 align="center">My Statistics:</h3>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GihanPasidu&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GihanPasidu&theme=dark&hide_border=false" />
 </td>
-<td width="50%">
-
-### 🚀 Featured Projects
-- **AI-Powered Web Applications** - Python, Django, Machine Learning
-- **React Dashboard Solutions** - TypeScript, React, Redux
-- **Cloud Infrastructure** - AWS, Docker, Kubernetes
-- **Mobile Applications** - Swift, React Native
-
-### 📜 Certifications
-- Cloud Architecture Fundamentals
-- Advanced Python Programming
-- Full-Stack Web Development
-- Machine Learning Essentials
-
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GihanPasidu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
 
 ---
 
-<<<<<<< HEAD
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gihan-pasidu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gihanpasidu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GihanPasidu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahanrowdy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gihanpasidu.dev)
-
-=======
 <h3 align="center">Connect with me</h3>
 <div align="center" style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50">
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="50" height="50">
-  </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="50" height="50">
-  </a>
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="50" height="50">
-  </a>
-  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="50" height="50">
-  </a>
-  <a href="https://www.youtube.com/your-youtube-channel" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="50" height="50">
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="50" height="50">
-  </a>
->>>>>>> parent of 9042b9f (Update README.md)
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="50" height="50">
 </div>
 
 ---
 
-## 💖 Support My Work
-
-<div align="center">
-
-If you find my work helpful or interesting, consider supporting me:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gihanpasidu)
-[![Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/GihanPasidu)
-
-</div>
+<h3 align="center">Tech Stack</h3>
+<p align="center"style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" /><br>
+  <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" style="filter: invert(100%);" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" height="50" />
+</p>
 
 ---
 
 <div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-**⭐ Star my repositories if you find them useful!**
-
-*"Code is poetry written in logic"* ✨
-
+ <h3 align="center">Trophy</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=GihanPasidu&theme=gruvbox&title=Stars,Followers,PullRequest,Issues" />
 </div>
+
+---
+
+<h3 align="center">Support:</h3>
+<p align="center">
+  <a href="https://buymeacoffee.com/gihanpasidu"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gihanpasidu"/></a>
+</p>
 
 </div>
